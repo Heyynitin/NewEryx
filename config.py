@@ -51,8 +51,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/TheAloneTeam")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/TheTeamAlone")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/HEART_STR1NGS")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/HEART_STR1NGS")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", None))
@@ -91,22 +91,22 @@ confirmer = {}
 
 START_IMG_URL = getenv(
     "START_IMG_URL",
-    "https://files.catbox.moe/34xlvu.jpg",
+    "https://files.catbox.moe/t41jkc.jpg",
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://files.catbox.moe/34xlvu.jpg",
+    "https://files.catbox.moe/t41jkc.jpg",
 )
-PLAYLIST_IMG_URL = "https://files.catbox.moe/34xlvu.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/34xlvu.jpg"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/34xlvu.jpg"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/34xlvu.jpg"
-STREAM_IMG_URL = "https://files.catbox.moe/34xlvu.jpg"
-SOUNCLOUD_IMG_URL = "https://files.catbox.moe/34xlvu.jpg"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/34xlvu.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/34xlvu.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/34xlvu.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/34xlvu.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/t41jkc.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/t41jkc.jpg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/t41jkc.jpg"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/t41jkc.jpg"
+STREAM_IMG_URL = "https://files.catbox.moe/t41jkc.jpg"
+SOUNCLOUD_IMG_URL = "https://files.catbox.moe/t41jkc.jpg"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/t41jkc.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/t41jkc.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/t41jkc.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/t41jkc.jpg"
 
 
 def time_to_seconds(time):
